@@ -1,0 +1,73 @@
+.header{
+	border: 2px solid;
+    border-radius: 10px;
+	background-color:#b0c4de;
+    padding: 5px;
+    margin-top: 25px;
+}
+.post a{
+	text-decoration: none;
+}
+
+.row{
+	margin: 0;
+	padding: 0;
+	width: 1000px;
+	margin: auto;
+}
+
+.pad-input{
+	margin-top: 10px;
+}
+
+.gotomain{
+	text-align: center;
+}
+
+.control-label{
+	width: 200px;
+}
+
+.my-form{
+	border: 2px solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 25px;
+}
+
+.btn-right{
+    text-align: right;
+}
+
+.post-one h2{
+	text-align: center;
+}
+
+.pagination{
+	margin-top: 30px;
+	text-align: center;
+	width: 100%;
+
+}
+
+.page{
+	font-size: 14pt;
+	padding:5px;
+		float: left;
+}
+
+.coment{
+	width: 50%;
+	position: absolute;
+}
+
+.name-user{
+	float: left;
+	font-weight: bold;
+}
+
+.data-add{
+	position: absolute;
+    right: 0;
+    color: #a9a9a9;
+}
